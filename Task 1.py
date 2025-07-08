@@ -1,5 +1,4 @@
 #Task 1: Calculate Factorial Using a Function
-''''
 num = int (input("Enter The Number : "))
 
 def factorial (num):
@@ -11,5 +10,3 @@ def factorial (num):
 result = factorial (num)
 
 print(f"Factorial of {num} is: ", result)
-
-'''
